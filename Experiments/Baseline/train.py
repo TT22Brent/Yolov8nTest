@@ -8,7 +8,7 @@ def main():
 
     model.train(
         data="data.yaml",
-        epochs=2,
+        epochs=500,
         imgsz=640,
         batch=8,
         device=0,  # GPU id，或 "cpu"
