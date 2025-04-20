@@ -1,0 +1,18 @@
+numpy
+pyyaml
+requests
+tqdm
+pillow
+matplotlib
+psutil
+lxml
+opencv-python
+pandas
+spicy
+
+# YOLOv8 本地源码需要
+ultralytics-thop
+
+# （可选）推理加速与部署支持
+onnx
+onnxruntime
