@@ -1,5 +1,6 @@
 path: C:/Users/user/PycharmProjects/Yolov8ncloud/Datasets
 train: images/train
 val: images/val
+test: images/test
 nc: 5
-names: ['cat', 'dog', 'horse', 'cow', 'elephant']
+names: ['chair', 'bird', 'cat', 'sheep', 'cattle']
