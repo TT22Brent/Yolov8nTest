@@ -9,10 +9,10 @@ def main():
         data="C:/Users/user/PycharmProjects/Yolov8ncloud/Datasets/dataset.yaml",
         epochs=500,
         imgsz=640,
-        batch=96,
+        batch=112,
         device=0,
-        project="output",
-        name="step1_ghostconv",
+        project="ghostnet_result",
+        name="ghostnet",
         exist_ok=True
     )
 

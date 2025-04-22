@@ -72,7 +72,7 @@ FPS         : {fps:.2f}
 
 if __name__ == "__main__":
     evaluate(
-        model_path="C:/Users/user/Desktop/bestno.pt",
+        model_path="C:/Users/user/Desktop/ghostnet_C2f.pt",
         data_yaml="data.yaml",
         save_preds=True,
         tag="baseline_test"
